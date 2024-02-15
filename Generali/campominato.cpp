@@ -1,9 +1,3 @@
-/*
-    Gallo Francesco
-    Di Tullo Francesco
-    D'Ambrosio Stefano
-*/
-
 #include <iostream>
 
 #ifdef __APPLE__
